@@ -8,4 +8,4 @@ python 3.x with protobuf & six modules
 
 # Usage:
 
-python payload_dumper.py payload.bin
+python payload_extractor.py payload.bin
